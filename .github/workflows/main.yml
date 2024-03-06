@@ -6,7 +6,7 @@ on:
 env:
   SERVER_HOST: 51.38.73.150
   SERVER_USER: root
-  SERVER_PATH: /root/github-test
+  SERVER_PATH: /root/github
 
 jobs:
 
